@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monahancj
-- 👀 I’m interested in PowerShell, Python, and operational support of cloud environments.
-- 🌱 I’m currently learning Python
+- 👀 I’m primarily working with in PowerShell, PowerCLI, and supporting on-premise VMware environments.
+- I would like to start working the operational support of cloud environments.  I'll probably have to learn Python for that.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
